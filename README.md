@@ -47,6 +47,9 @@ My final grade will be weighted as follows:
 RESOURCES/REFERENCES
 
 •	Open-source version of MATLAB: https://www.gnu.org/software/octave/
+
 •	Sci-hub: https://sci-hub.tf/
+
 •	Anderson JR The Architecture of Cognition
+
 •	Donald O. Hebb The Organization of Behavior

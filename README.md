@@ -1,4 +1,4 @@
-# CompNeuro
+# Computational Neuroscience Independent Study
 Centralized location for Charlie Burton's computational neuroscience independent study. 
 
 COMPUTATIONAL NEUROSCIENCE SYLLABUS

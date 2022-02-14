@@ -1,4 +1,4 @@
-###Fill-in annotated bibliography until I learn how to properly format a LaTex master document that will update on GitHub after each use on Overleaf. 
+#Fill-in annotated bibliography until I learn how to properly format a LaTex master document that will update on GitHub after each use on Overleaf. 
 
 *McCulloch, Warren S., and Walter Pitts. "A logical calculus of the ideas immanent in nervous activity." The bulletin of mathematical biophysics 5.4 (1943): 115-133.*
 
